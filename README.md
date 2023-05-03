@@ -4,13 +4,13 @@ commands
 
 compile to executable
 
-g++.exe -Wall -g main.cpp -o main.exe
+g++.exe -Wall -g server.cpp -o server.exe
 
 
 CMD line args
 
-main.exe < newput.txt
+server.exe < newput.txt
 
-main.exe < newput2.txt
+server.exe < newput2.txt
 
-main.exe < newput3.txt
+server.exe < newput3.txt
