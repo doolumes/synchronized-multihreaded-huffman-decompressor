@@ -8,6 +8,9 @@ g++.exe -Wall -g main.cpp -o main.exe
 
 
 CMD line args
+
 main.exe < newput.txt
+
 main.exe < newput2.txt
+
 main.exe < newput3.txt
